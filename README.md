@@ -1,4 +1,4 @@
-## Hello! My name is Luiz Torres and i am a full-stack developer!
+## Hello! My name is Luiz.
 <div align="center">
   <a href="https://github.com/luiztorresgithub">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiztorresgithub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
